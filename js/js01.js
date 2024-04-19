@@ -2,7 +2,7 @@
 // console.error('Esto es un error');
 // console.info('Mensaje informativo');
 // console.warn('Mensaje de advertencia');
-let edad = 17;
+// let edad = 17;
 // if (edad >= 18){
 //     console.log('Es mayor de edad'); 
 // } else {
